@@ -1,10 +1,19 @@
-<center><h2> Wolcome to my world!🌍 </h2></center>
+<h2 align="center">Welcome to my world! 🌍</h2>
 
-![Coding Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JrdWdvaDc2czB0Njhpa2M1ZWZsN29qZjVsdmtzZXc1dHkxcm9wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JrdWdvaDc2czB0Njhpa2M1ZWZsN29qZjVsdmtzZXc1dHkxcm9wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="500" />
+</p>
+
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andre-alves-araujo-589423311/)
+
+</div>
 
 ---
 
-<center><h3> 👨🏻‍💻 André Araújo | Dev em formação  </h3></center> 
+<h3 align="center">👨🏻‍💻 André Araújo | Dev em formação</h3>
 
 ---
 
@@ -16,7 +25,7 @@
 
 ---
 
-<center><h3> 🚀 Tecnologias em estudo:  </h3></center>
+<h3 align="center">🚀 Tecnologias em estudo:</h3>
 
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="70px">
@@ -31,46 +40,16 @@
 
 ---
 
-<center><h4>
+<h3 align="center">📜 Cursos & Certificados</h3>
+
+<div align="center">
 
 | Cursos | Certificados |
-| -------- | ----------- |
-| Príncipios do Git e Github | [Certificado](https://hermes.dio.me/certificates/JYWBMSRV.pdf) |
+| ------ | ------------ |
+| Princípios do Git e GitHub | [Certificado](https://hermes.dio.me/certificates/JYWBMSRV.pdf) |
 
-</h4></center> 
-
----
-
-![My stats](https://github-readme-stats.vercel.app/api?username=Andre-Araujo-Tech&show_icons=true&theme=dark)
+</div>
 
 ---
 
 📂 Projetos acadêmicos e pessoais disponíveis nos repositórios abaixo.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**Andre-Araujo-Tech/Andre-Araujo-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
