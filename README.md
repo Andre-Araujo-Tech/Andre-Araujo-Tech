@@ -48,6 +48,7 @@
 | ------ | ------------ |
 | Treinamento de IA | [Certificado](https://drive.google.com/file/d/1Fc2uyeLPFWM5565uiOASJg_ZxEyloLSB/view?usp=sharing) |
 | Cyber Security | [Certificado](https://drive.google.com/file/d/16BSXRJB_XSJALlW7JLFsZ62xf0_M6yF3/view?usp=sharing) |
+| Machine Learning | [Certificado](https://drive.google.com/file/d/1kktI8ThxaC0Dlv2ZdLWGqd0DDzl0fYOC/view?usp=sharing) |
 
 </div>
 
