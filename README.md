@@ -46,7 +46,8 @@
 
 | Cursos | Certificados |
 | ------ | ------------ |
-| Princípios do Git e GitHub | [Certificado](https://hermes.dio.me/certificates/JYWBMSRV.pdf) |
+| Treinamento de IA | [Certificado](https://ead.nativosdofuturo.com.br/mod/customcert/view.php?id=767&downloadown=1) |
+| Cyber Security | [Certificado](https://ead.nativosdofuturo.com.br/mod/customcert/view.php?id=562&downloadown=1) |
 
 </div>
 
