@@ -48,6 +48,7 @@
 | Cursos | Certificados |
 | ------ | ------------ |
 | Formação GitHub | [Certificado](https://drive.google.com/file/d/1b5eqkmBACBmxs5G8G7K5ouSeqA0NyU5X/view?usp=sharing) |
+| Formação Lógica de Programação | [Certificado](https://drive.google.com/file/d/1A2mlP3xHImQTo4jF1sTAZ9Oyw30zJTAc/view?usp=sharing) |
 | Treinamento de IA | [Certificado](https://drive.google.com/file/d/1Fc2uyeLPFWM5565uiOASJg_ZxEyloLSB/view?usp=sharing) |
 | Cyber Security | [Certificado](https://drive.google.com/file/d/16BSXRJB_XSJALlW7JLFsZ62xf0_M6yF3/view?usp=sharing) |
 | Machine Learning | [Certificado](https://drive.google.com/file/d/1kktI8ThxaC0Dlv2ZdLWGqd0DDzl0fYOC/view?usp=sharing) |
