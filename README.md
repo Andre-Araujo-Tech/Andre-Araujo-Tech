@@ -57,4 +57,15 @@
 
 ---
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Andre-Araujo-Tech&show_icons=true&theme=dark&hide_border=true&include_all_commits&locale=pt-br" />
+  <img height="160" src="https://streak-stats.demolab.com?user=Andre-Araujo-Tech&theme=dark&hide_border=true&locale=pt-br" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Araujo-Tech&theme=dark&layout=compact&hide_border=true&langs_count=6&locale=pt-br" />
+</p>
+
+---
+
 📂 Projetos acadêmicos e pessoais disponíveis nos repositórios abaixo.
