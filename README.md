@@ -57,10 +57,24 @@
 
 ---
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Andre-Araujo-Tech&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Araujo-Tech&layout=compact&theme=dark&langs_count=6&border_color=ffffff&locale=pt-br" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=Andre-Araujo-Tech&rank_icon=github&theme=tokyonight&hide_border=true&locale=pt-br"
+        width="420"
+        height="165"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Araujo-Tech&theme=tokyonight&layout=compact&hide_border=true&langs_count=6&locale=pt-br&hide=c++"
+        width="420"
+        height="165"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
