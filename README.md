@@ -58,9 +58,8 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Andre-Araujo-Tech&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&locale=pt-br" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Andre-Araujo-Tech&theme=dark&hide_border=true&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Araujo-Tech&theme=dark&layout=compact&hide_border=true&langs_count=6&locale=pt-br&include_all_commits=true&count_private=true&hide=c++" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Andre-Araujo-Tech&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-Araujo-Tech&layout=compact&theme=dark&langs_count=6&border_color=ffffff&locale=pt-br" />
 </p>
 
 ---
